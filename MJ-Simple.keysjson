@@ -1,0 +1,39 @@
+{
+    "name": "MJ Simple Layout for Windows 10 Open Source",
+    "description": "MJ Simple File",
+    "author": "mjurick",
+    "uuid": "MJ Simple Layout for Windows 10 Open Source",
+    "lrVersion": "4",
+    "modeKey": "53",
+    "keys":
+    [
+        { "mod":"0", "key":"12", "adj" : {"_SetPreset":"VSCO Film 01 LR4 Canon/C - Fuji 160C"} },
+        { "mod":"0", "key":"13", "adj" : {"Saturation":"-1"} },
+        { "mod":"0", "key":"14", "adj" : {"Saturation":"1"} },
+        { "mod":"2", "key":"125", "adj" : {"Exposure2012":"-.1"} },
+        { "mod":"2", "key":"126", "adj" : {"Exposure2012":".1"} }
+        { "mod":"4", "key":"125", "adj" : {"Exposure2012":"-.3"} },
+        { "mod":"4", "key":"126", "adj" : {"Exposure2012":".3"} }
+        { "mod":"8", "key":"125", "adj" : {"Exposure2012":"-.6"} },
+        { "mod":"8", "key":"123", "adj" : {"Temperature":"-1000"} }
+        { "mod":"8", "key":"124", "adj" : {"Temperature":"1000"} }
+        { "mod":"4", "key":"123", "adj" : {"Temperature":"-200"} }
+        { "mod":"4", "key":"124", "adj" : {"Temperature":"200"} }
+        { "mod":"2", "key":"8", "adj" : {"Contrast2012":"-5"} }
+        { "mod":"0", "key":"8", "adj" : {"Contrast2012":"5"} }
+        { "mod":"2", "key":"8", "adj" : {"Highlights2012":"-5"} }
+        { "mod":"0", "key":"8", "adj" : {"Highlights012":"5"} }
+        { "mod":"2", "key":"13", "adj" : {"Shadows2012":"-5"} }
+        { "mod":"0", "key":"8", "adj" : {"Shadows2012":"5"} }
+        { "mod":"2", "key":"37", "adj" : {"Clarity2012":"-5"} }
+        { "mod":"0", "key":"13", "adj" : {"Clarity2012":"5"} }
+        { "mod":"8", "key":"30", "adj" : {"PerspectiveRotate":"2"} }
+        { "mod":"8", "key":"33", "adj" : {"PerspectiveRotate":"-2"} }
+        { "mod":"0", "key":"30", "adj" : {"PerspectiveRotate":".2"} }
+        { "mod":"0", "key":"33", "adj" : {"PerspectiveRotate":"-.2"} }
+     
+        
+        
+        
+    ]
+}
