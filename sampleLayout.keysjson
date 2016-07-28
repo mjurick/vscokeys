@@ -10,7 +10,7 @@
         { "mod":"0", "key":"12", "adj" : {"_SetPreset":"VSCO Film 01 LR4 Canon/C - Fuji 160C"} },
         { "mod":"0", "key":"13", "adj" : {"Saturation":"-1"} },
         { "mod":"0", "key":"14", "adj" : {"Saturation":"1"} },
-        { "mod":"2", "key":"13", "adj" : {"Exposure2012":"-.1"} },
-        { "mod":"2", "key":"14", "adj" : {"Exposure2012":".1"} }
+        { "mod":"2", "key":"125", "adj" : {"Exposure2012":"-.1"} },
+        { "mod":"2", "key":"126", "adj" : {"Exposure2012":".1"} }
     ]
 }
